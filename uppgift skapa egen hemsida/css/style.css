@@ -1,0 +1,47 @@
+.textstyle{
+	font-family: "Impact";
+}
+
+.textstyle1{
+	font-family: "Bahnschrift SemiBold";
+}
+
+.color{
+	color: rgb(235, 182, 69);
+}
+
+.color1{
+	color: black;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: green;
+}
+
+.position{
+	float: left;
+}
+
+.bg{
+	background-color: rgb(128, 105, 136);
+	border: 3px solid rgb(35, 35, 35);
+}
+
+.bg1{
+	background-color: rgb(74, 144, 102);
+}
+
+.bg2{
+	background-color: rgb(211, 190, 209);
+}
+
+.bg3{
+	background-color: rgb(145, 144, 146);
+	border: 3px solid black;
+}
+
+.bg4{
+	background-color: rgb(180, 180, 180);
+	border: 2px dotted black;
+}
